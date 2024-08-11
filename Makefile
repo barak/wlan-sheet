@@ -5,3 +5,5 @@ all:
 
 clean:
 	latexmk -c
+
+.PHONY: all clean
